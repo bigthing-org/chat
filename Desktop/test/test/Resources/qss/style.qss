@@ -1,0 +1,45 @@
+
+QPushButton{
+	border-style: none;
+	
+}
+
+QPushButton#closeButton:hover{
+	background-color: rgb(255, 50, 50);
+}
+
+QPushButton#minButton:hover{
+	background-color: gray;
+}
+
+QPushButton:checked{
+	background-color: rgb(0, 108, 155);
+}
+
+QPushButton#messageButton{
+	border-image: url(":/test/Resources/image/message.png");
+}
+
+QPushButton#friendButton{
+	border-image: url(":/test/Resources/image/friend.png");
+}
+
+QPushButton#spaceButton{
+	border-image: url(":/test/Resources/image/space.png");
+}
+
+QPushButton#groupButton{
+	border-image: url(":/test/Resources/image/group.png");
+}
+
+QLineEdit{
+	border-style: none;
+}
+
+QStackedWidget{
+	background-color: rgb(188, 221, 242);
+}
+
+QTreeWidget{
+	background-color: rgb(188, 221, 242);
+}

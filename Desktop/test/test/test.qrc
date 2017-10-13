@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/test">
+        <file>Resources/image/head.ico</file>
+        <file>Resources/image/owl.jpg</file>
+        <file>Resources/image/close.png</file>
+        <file>Resources/image/min.png</file>
+        <file>Resources/image/images.png</file>
+        <file>Resources/image/images2.png</file>
+        <file>Resources/qss/style.qss</file>
+        <file>Resources/image/message.png</file>
+        <file>Resources/image/friend.png</file>
+        <file>Resources/image/group.png</file>
+        <file>Resources/image/space.png</file>
+    </qresource>
+</RCC>
